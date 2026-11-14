@@ -1,0 +1,19 @@
+{
+  "name": "Nexus Snake",
+  "short_name": "Snake",
+  "description": "Премиум игра Змейка — офлайн, свайпы, рекорды",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07080f",
+  "theme_color": "#07080f",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
