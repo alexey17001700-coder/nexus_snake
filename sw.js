@@ -1,5 +1,5 @@
-/* Nexus Snake — network-first service worker (свежая версия всегда из сети) */
-var CACHE = 'nexus-snake-v1';
+/* Wlupidol Snake — network-first service worker (свежая версия всегда из сети) */
+var CACHE = 'wlupidol-snake-v1';
 
 self.addEventListener('install', function (e) {
   self.skipWaiting();
